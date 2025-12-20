@@ -57,25 +57,44 @@ Business, History, Psychology, Mathematics, Engineering, Computer Science, Biolo
 ai_learning_analysis/
 
 │
+
 ├── data/
+
 │   ├── raw_ai_sessions.csv
+
 │   └── cleaned_ai_sessions.csv
+
 │
 ├── notebooks/
+
 │   ├── 01_data_understanding_cleaning.ipynb
+
 │   ├── 02_sql_analysis.ipynb
+
 │   └── 03_visualization.ipynb
+
 │
+
 ├── sql/
+
 │   └── ai_session_queries.sql
+
 │
+
 ├── powerbi/
+
 │   └── ai_learning_dashboard.pbix
+
 │
+
 ├── report/
+
 │   └── ai_learning_analysis_report.pdf
+
 │
+
 └── README.md
+
 
 <h3>📊 Key Insights</h3>
 
