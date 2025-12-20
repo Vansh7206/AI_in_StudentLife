@@ -75,6 +75,9 @@ The project includes:
 - Time-based trend analysis
 - Power BI dashboard for interactive exploration
 
+<h5>📊 DashBoard Preview</h5>
+![alt text](/images/Dashboard_image.jpg)
+
 <h3>📉 Limitations</h3>
 
 - Dataset is limited to academic use cases
