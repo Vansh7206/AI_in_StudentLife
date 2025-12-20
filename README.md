@@ -76,7 +76,8 @@ The project includes:
 - Power BI dashboard for interactive exploration
 
 <h5>📊 DashBoard Preview</h5>
-![Dashboard Preview](images/Dashboard_image.jpg)
+![Dashboard Preview](https://github.com/Vansh7206/AI_in_StudentLife/blob/main/images/Dashboard_image.jpg)
+
 
 
 <h3>📉 Limitations</h3>
