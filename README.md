@@ -106,6 +106,5 @@ Vansh Chandan
 Aspiring Data Analyst | Future ML Engineer
 
 ⭐ Final Note
-
 If you found this project insightful, feel free to ⭐ the repository.
 Feedback and suggestions are always welcome!
