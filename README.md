@@ -76,7 +76,8 @@ The project includes:
 - Power BI dashboard for interactive exploration
 
 <h5>📊 DashBoard Preview</h5>
-![alt text](/images/Dashboard_image.jpg)
+![Dashboard Preview](images/Dashboard_image.jpg)
+
 
 <h3>📉 Limitations</h3>
 
